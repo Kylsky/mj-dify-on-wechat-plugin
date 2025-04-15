@@ -106,7 +106,7 @@
 ## 第一步：进入聊天窗口，先认证管理员，如果是临时密码，请重启 dify-on-wechat前往logs查看，上方日志中有临时密码
 #auth＋密码
 ## 第二步：认证成功后进行安装
-#installp https://github.com/mouxangithub/midjourney.git
+#installp https://github.com/Kylsky/mj-dify-on-wechat-plugin
 ## 第三步：#scanp扫描插件，提示发现MidJourney插件即为成功
 #scanp
 ## 第四步：输入$mj_help有提示说明插件安装成功
